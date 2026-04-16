@@ -1,0 +1,1067 @@
+{
+  "total_vendors": 386,
+  "total_spend_usd": 7839131.0,
+  "by_department": {
+    "Sales": {
+      "count": 5,
+      "spend": 3188238.0
+    },
+    "Facilities": {
+      "count": 71,
+      "spend": 1132835.0
+    },
+    "Finance": {
+      "count": 27,
+      "spend": 721008.0
+    },
+    "IT & Infrastructure": {
+      "count": 49,
+      "spend": 691505.0
+    },
+    "People & HR": {
+      "count": 32,
+      "spend": 504696.0
+    },
+    "Travel & Entertainment": {
+      "count": 17,
+      "spend": 436691.0
+    },
+    "Corporate Development": {
+      "count": 7,
+      "spend": 314193.0
+    },
+    "Marketing": {
+      "count": 22,
+      "spend": 219064.0
+    },
+    "Engineering": {
+      "count": 16,
+      "spend": 201604.0
+    },
+    "Employee Experience": {
+      "count": 88,
+      "spend": 178653.0
+    },
+    "Legal": {
+      "count": 19,
+      "spend": 117465.0
+    },
+    "G&A": {
+      "count": 22,
+      "spend": 106876.0
+    },
+    "Statutory / Non-discretionary": {
+      "count": 11,
+      "spend": 26303.0
+    }
+  },
+  "by_recommendation": {
+    "Optimize": {
+      "count": 208,
+      "spend": 6377550.0
+    },
+    "Investigate": {
+      "count": 95,
+      "spend": 844172.0
+    },
+    "Protected": {
+      "count": 23,
+      "spend": 345337.0
+    },
+    "Consolidate": {
+      "count": 34,
+      "spend": 255681.0
+    },
+    "Terminate": {
+      "count": 26,
+      "spend": 16391.0
+    }
+  },
+  "by_confidence": {
+    "high": 243,
+    "low": 67,
+    "medium": 76
+  },
+  "top_20": [
+    {
+      "name": "Salesforce Uk Ltd-Uk",
+      "spend": 3117226.0,
+      "dept": "Sales",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Navan (Tripactions Inc)",
+      "spend": 357984.0,
+      "dept": "Travel & Entertainment",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Bdo Llp",
+      "spend": 343081.0,
+      "dept": "Finance",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Tog Uk Properties Limited",
+      "spend": 263821.0,
+      "dept": "Facilities",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Cloudcrossing Bvba",
+      "spend": 208675.0,
+      "dept": "IT & Infrastructure",
+      "rec": "Investigate"
+    },
+    {
+      "name": "Zagrebtower D.O.O.",
+      "spend": 183754.0,
+      "dept": "Facilities",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Innovent Spaces Private Limited",
+      "spend": 147348.0,
+      "dept": "Facilities",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Weking D.O.O.",
+      "spend": 144093.0,
+      "dept": "Facilities",
+      "rec": "Investigate"
+    },
+    {
+      "name": "Jensten Insurance Brokers",
+      "spend": 142700.0,
+      "dept": "Finance",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Gpt Space & Co",
+      "spend": 133507.0,
+      "dept": "Facilities",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Aetna Life And Casualty Ltd",
+      "spend": 124661.0,
+      "dept": "People & HR",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Rsm Uk Corporate Finance Llp",
+      "spend": 117078.0,
+      "dept": "Corporate Development",
+      "rec": "Protected"
+    },
+    {
+      "name": "Amazon Web Services Llc",
+      "spend": 106399.0,
+      "dept": "IT & Infrastructure",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Telefonica Global Services Gmbh",
+      "spend": 89880.0,
+      "dept": "IT & Infrastructure",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Hr Solution International Gmbh",
+      "spend": 80823.0,
+      "dept": "People & HR",
+      "rec": "Consolidate"
+    },
+    {
+      "name": "4I Advisory Services",
+      "spend": 71860.0,
+      "dept": "Corporate Development",
+      "rec": "Protected"
+    },
+    {
+      "name": "Bisley Law Ltd",
+      "spend": 67414.0,
+      "dept": "Legal",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Infosys",
+      "spend": 66570.0,
+      "dept": "Engineering",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Big Frontier Pty Ltd (Cult Of Monday)",
+      "spend": 66131.0,
+      "dept": "Marketing",
+      "rec": "Optimize"
+    },
+    {
+      "name": "Harmonic Group Limited",
+      "spend": 65418.0,
+      "dept": "G&A",
+      "rec": "Investigate"
+    }
+  ],
+  "top_20_spend_share": 0.7524332735350385,
+  "long_tail_under_1k": {
+    "count": 180,
+    "spend": 55358.0
+  },
+  "duplicate_groups": [
+    {
+      "root": "amazonweb",
+      "total_spend": 111552.0,
+      "entries": [
+        {
+          "name": "Amazon Web Services Llc",
+          "spend": 106399.0
+        },
+        {
+          "name": "Amazon Web Services Inc.",
+          "spend": 5153.0
+        }
+      ]
+    },
+    {
+      "root": "hrsolution",
+      "total_spend": 87810.0,
+      "entries": [
+        {
+          "name": "Hr Solution International Gmbh",
+          "spend": 80823.0
+        },
+        {
+          "name": "Hrsolution International Ag",
+          "spend": 6987.0
+        }
+      ]
+    },
+    {
+      "root": "tmforum",
+      "total_spend": 58070.0,
+      "entries": [
+        {
+          "name": "Tmforum",
+          "spend": 57560.0
+        },
+        {
+          "name": "Tm Forum",
+          "spend": 510.0
+        }
+      ]
+    }
+  ],
+  "investigation_top_10": [
+    {
+      "name": "Cloudcrossing Bvba",
+      "spend": 208675.0,
+      "dept": "IT & Infrastructure",
+      "desc": "Belgian IT services or software provider (scope unclear)"
+    },
+    {
+      "name": "Weking D.O.O.",
+      "spend": 144093.0,
+      "dept": "Facilities",
+      "desc": "Croatian facilities management or office maintenance services"
+    },
+    {
+      "name": "Harmonic Group Limited",
+      "spend": 65418.0,
+      "dept": "G&A",
+      "desc": "Unclear business function \u2014 name suggests consulting or advisory services"
+    },
+    {
+      "name": "Cloud Technology Solutions Ltd",
+      "spend": 60661.0,
+      "dept": "IT & Infrastructure",
+      "desc": "Cloud infrastructure consulting or managed services provider"
+    },
+    {
+      "name": "Tmforum",
+      "spend": 57560.0,
+      "dept": "Engineering",
+      "desc": "TM Forum membership \u2014 telecom/tech industry standards and frameworks"
+    },
+    {
+      "name": "Veniture D.O.O.",
+      "spend": 39342.0,
+      "dept": "Engineering",
+      "desc": "Croatian software development or IT consulting firm"
+    },
+    {
+      "name": "Nefron - Obrt Za Poslovne Usluge",
+      "spend": 30614.0,
+      "dept": "Facilities",
+      "desc": "Croatian business services provider \u2014 likely cleaning or facility maintenance"
+    },
+    {
+      "name": "New Star Networks(Nsn)",
+      "spend": 23887.0,
+      "dept": "IT & Infrastructure",
+      "desc": "Network infrastructure and connectivity services provider"
+    },
+    {
+      "name": "Shree Info System Solutions Pvt Ltd",
+      "spend": 22275.0,
+      "dept": "IT & Infrastructure",
+      "desc": "India-based IT services or software solutions provider"
+    },
+    {
+      "name": "Taxstudio, Ltd.",
+      "spend": 14642.0,
+      "dept": "Finance",
+      "desc": "Tax compliance and advisory services"
+    }
+  ],
+  "investigation_total_spend": 844172.0,
+  "consolidate_total_spend": 255681.0,
+  "consolidate_count": 34,
+  "category_fragmentation": {
+    "audit_tax_accounting": {
+      "count": 14,
+      "spend": 473065.0,
+      "vendors": [
+        {
+          "name": "Bdo Llp",
+          "spend": 343081.0
+        },
+        {
+          "name": "Grant Thornton",
+          "spend": 46539.0
+        },
+        {
+          "name": "Eurofast International Ltd-Greec",
+          "spend": 18164.0
+        },
+        {
+          "name": "Taxstudio, Ltd.",
+          "spend": 14642.0
+        },
+        {
+          "name": "Granttree Limited",
+          "spend": 13659.0
+        },
+        {
+          "name": "Collards Chartered Accountants",
+          "spend": 12879.0
+        },
+        {
+          "name": "Pricewaterhousecoopers Llp",
+          "spend": 4879.0
+        },
+        {
+          "name": "Pinnacle Partnership Ca",
+          "spend": 4836.0
+        },
+        {
+          "name": "Crowe Horwath Revizija D.O.O.",
+          "spend": 4062.0
+        },
+        {
+          "name": "Grad Split",
+          "spend": 3483.0
+        },
+        {
+          "name": "Mcburneys Charted Accountants",
+          "spend": 2711.0
+        },
+        {
+          "name": "N S Shastri And Co",
+          "spend": 2194.0
+        },
+        {
+          "name": "Porezno Savjetni\u00e5\u00a1Tvo Tuk D.O.O.",
+          "spend": 1813.0
+        },
+        {
+          "name": "Australian Taxation Office (Ato)",
+          "spend": 123.0
+        }
+      ]
+    },
+    "legal": {
+      "count": 18,
+      "spend": 155807.0,
+      "vendors": [
+        {
+          "name": "Bisley Law Ltd",
+          "spend": 67414.0
+        },
+        {
+          "name": "Accutrainee Limited",
+          "spend": 38841.0
+        },
+        {
+          "name": "Zuric I Partneri Odvjetnicko Drustvo D.O.O.",
+          "spend": 24135.0
+        },
+        {
+          "name": "The Virtual Legal Counsel Ltd",
+          "spend": 4800.0
+        },
+        {
+          "name": "Pinsent Masons Mpillay Llp",
+          "spend": 4078.0
+        },
+        {
+          "name": "O\u00e2\u20ac\u2122Donnell Salzano Lawyers",
+          "spend": 3955.0
+        },
+        {
+          "name": "Crossland",
+          "spend": 2924.0
+        },
+        {
+          "name": "G S Notary Public Limited",
+          "spend": 1935.0
+        },
+        {
+          "name": "Quadrant Law Llc",
+          "spend": 1327.0
+        },
+        {
+          "name": "Curzon Green Solicitors",
+          "spend": 1158.0
+        },
+        {
+          "name": "Thomas Mansfield Solicitors Limited",
+          "spend": 1135.0
+        },
+        {
+          "name": "Lane Ip Limited",
+          "spend": 851.0
+        },
+        {
+          "name": "Klg - Kalra Legal Group",
+          "spend": 681.0
+        },
+        {
+          "name": "Kilgannon & Partners Llp",
+          "spend": 681.0
+        },
+        {
+          "name": "Induslaw",
+          "spend": 596.0
+        },
+        {
+          "name": "Landu Law Solicitors",
+          "spend": 568.0
+        },
+        {
+          "name": "Franklin, Gringer & Cohen, P.C.",
+          "spend": 427.0
+        },
+        {
+          "name": "Formswift",
+          "spend": 301.0
+        }
+      ]
+    },
+    "real_estate_coworking": {
+      "count": 100,
+      "spend": 1257378.0,
+      "vendors": [
+        {
+          "name": "Tog Uk Properties Limited",
+          "spend": 263821.0
+        },
+        {
+          "name": "Zagrebtower D.O.O.",
+          "spend": 183754.0
+        },
+        {
+          "name": "Innovent Spaces Private Limited",
+          "spend": 147348.0
+        },
+        {
+          "name": "Weking D.O.O.",
+          "spend": 144093.0
+        },
+        {
+          "name": "Gpt Space & Co",
+          "spend": 133507.0
+        },
+        {
+          "name": "Wework Singapore Pte. Ltd.",
+          "spend": 64373.0
+        },
+        {
+          "name": "Google Ireland Limited",
+          "spend": 24798.0
+        },
+        {
+          "name": "Care Health Insurance Company Limited",
+          "spend": 24045.0
+        },
+        {
+          "name": "Sodexo Svc India Private Limited",
+          "spend": 17810.0
+        },
+        {
+          "name": "Jones Lang Lasalle (Nsw) Pty Ltd",
+          "spend": 16274.0
+        },
+        {
+          "name": "Konzum Plus D.O.O.",
+          "spend": 15684.0
+        },
+        {
+          "name": "Work Easy Space Solutions Private Limited",
+          "spend": 14913.0
+        },
+        {
+          "name": "Pingo D.O.O.",
+          "spend": 14508.0
+        },
+        {
+          "name": "Magazin Raunalni Sistemi D.O.O.",
+          "spend": 13870.0
+        },
+        {
+          "name": "Tp Prime D.O.O.",
+          "spend": 13785.0
+        },
+        {
+          "name": "Grad Zagreb, Gradski Ured Za Prostorno Ure\u00e4\u2018Enje,..",
+          "spend": 11637.0
+        },
+        {
+          "name": "Ramiro D.O.O.",
+          "spend": 11516.0
+        },
+        {
+          "name": "Catering Muring",
+          "spend": 9603.0
+        },
+        {
+          "name": "Cbre Limited",
+          "spend": 8395.0
+        },
+        {
+          "name": "Studentski Centar - Split",
+          "spend": 8269.0
+        },
+        {
+          "name": "Intertrust Singapore Corporate Services Pte Ltd - Csc",
+          "spend": 7360.0
+        },
+        {
+          "name": "Obrt Sjaj Sunca",
+          "spend": 6596.0
+        },
+        {
+          "name": "Allianz Australia Workers' Compensation (Victoria) Limited",
+          "spend": 6099.0
+        },
+        {
+          "name": "Icici Lombard Gic Ltd",
+          "spend": 5972.0
+        },
+        {
+          "name": "Limes Plus D.O.O.",
+          "spend": 5624.0
+        },
+        {
+          "name": "Telemach Hrvatska D.O.O.",
+          "spend": 5134.0
+        },
+        {
+          "name": "Centar Za Sigurnost D.O.O.",
+          "spend": 4991.0
+        },
+        {
+          "name": "Profi Bar D.O.O.",
+          "spend": 4917.0
+        },
+        {
+          "name": "Common Desk, Llc",
+          "spend": 3842.0
+        },
+        {
+          "name": "Hep Elektra D.O.O.",
+          "spend": 3735.0
+        },
+        {
+          "name": "Golubica Parking D.O.O.",
+          "spend": 3726.0
+        },
+        {
+          "name": "Zivi Napitak D.O.O.",
+          "spend": 3700.0
+        },
+        {
+          "name": "Vodafone (Australian)",
+          "spend": 3672.0
+        },
+        {
+          "name": "Ikea Hrvatska D.O.O.",
+          "spend": 3610.0
+        },
+        {
+          "name": "Orcola D.O.O.",
+          "spend": 3545.0
+        },
+        {
+          "name": "Gara\u00e5\u00beA Firule D.O.O.",
+          "spend": 2930.0
+        },
+        {
+          "name": "My Foodiverse Llp",
+          "spend": 2489.0
+        },
+        {
+          "name": "City Pantry Ltd",
+          "spend": 2419.0
+        },
+        {
+          "name": "Office Move London",
+          "spend": 2293.0
+        },
+        {
+          "name": "Starhub Ltd (Supplier)",
+          "spend": 2205.0
+        },
+        {
+          "name": "Cision Pr Newswire",
+          "spend": 2110.0
+        },
+        {
+          "name": "Apple Pty Ltd",
+          "spend": 2031.0
+        },
+        {
+          "name": "Clime India Private Limited",
+          "spend": 1678.0
+        },
+        {
+          "name": "British Telecommunications",
+          "spend": 1493.0
+        },
+        {
+          "name": "Etm Concessions Ltd",
+          "spend": 1419.0
+        },
+        {
+          "name": "Inside Edge Novated Leasing",
+          "spend": 1287.0
+        },
+        {
+          "name": "Rhea D.O.O.",
+          "spend": 1253.0
+        },
+        {
+          "name": "Amazon.Co.Uk",
+          "spend": 1107.0
+        },
+        {
+          "name": "Backoffice Associates",
+          "spend": 1080.0
+        },
+        {
+          "name": "Oladi D.O.O.",
+          "spend": 1064.0
+        },
+        {
+          "name": "Lunch Nutrition D.O.O.",
+          "spend": 1012.0
+        },
+        {
+          "name": "Winmaxi Tours & Travels",
+          "spend": 1001.0
+        },
+        {
+          "name": "Galop-Prijevoz D.O.O.",
+          "spend": 908.0
+        },
+        {
+          "name": "Urbani Eventi D.O.O.",
+          "spend": 851.0
+        },
+        {
+          "name": "Boe Croatia D.O.O.",
+          "spend": 814.0
+        },
+        {
+          "name": "Potomac D.O.O.",
+          "spend": 806.0
+        },
+        {
+          "name": "President Hotel And Tower Co., Ltd",
+          "spend": 803.0
+        },
+        {
+          "name": "Catering Ivi\u00e4\u2021 D.O.O.",
+          "spend": 669.0
+        },
+        {
+          "name": "Grafo-Jan",
+          "spend": 662.0
+        },
+        {
+          "name": "Trans-Agram Obrt Za Dostavu",
+          "spend": 581.0
+        },
+        {
+          "name": "Arena Center Zagreb D.O.O.",
+          "spend": 567.0
+        },
+        {
+          "name": "Obrt Za Ugostiteljstvo Mirakul",
+          "spend": 565.0
+        },
+        {
+          "name": "Oakberry Jr D.O.O.",
+          "spend": 535.0
+        },
+        {
+          "name": "Roto Dinamic D.O.O.",
+          "spend": 512.0
+        },
+        {
+          "name": "Vivat Fina Vina D.O.O.",
+          "spend": 467.0
+        },
+        {
+          "name": "E-Disti D.O.O.",
+          "spend": 458.0
+        },
+        {
+          "name": "Greencell Express Private Limited",
+          "spend": 457.0
+        },
+        {
+          "name": "Student Packers & Movers",
+          "spend": 371.0
+        },
+        {
+          "name": "Niva Transport J.D.O.O.",
+          "spend": 358.0
+        },
+        {
+          "name": "Spar Hrvatska D.O.O.",
+          "spend": 341.0
+        },
+        {
+          "name": "Treci Posao D.O.O.",
+          "spend": 307.0
+        },
+        {
+          "name": "Safestore Ltd",
+          "spend": 287.0
+        },
+        {
+          "name": "Split Tech City",
+          "spend": 284.0
+        },
+        {
+          "name": "Stillmark Zagreb D.O.O.",
+          "spend": 263.0
+        },
+        {
+          "name": "The Plant Man",
+          "spend": 235.0
+        },
+        {
+          "name": "Floom Ltd",
+          "spend": 162.0
+        },
+        {
+          "name": "Illunis D.O.O.",
+          "spend": 128.0
+        },
+        {
+          "name": "The Cook Kitchen",
+          "spend": 123.0
+        },
+        {
+          "name": "Australian Taxation Office (Ato)",
+          "spend": 123.0
+        },
+        {
+          "name": "Bonus Opinio D.O.O.",
+          "spend": 120.0
+        },
+        {
+          "name": "Kat'S Kitchen D.O.O.",
+          "spend": 119.0
+        },
+        {
+          "name": "Soho Kitchen Ltd",
+          "spend": 104.0
+        },
+        {
+          "name": "Fortis Trade J.D.O.O.",
+          "spend": 95.0
+        },
+        {
+          "name": "Till Trade D.O.O.",
+          "spend": 93.0
+        },
+        {
+          "name": "Pepco Croatia D.O.O.",
+          "spend": 89.0
+        },
+        {
+          "name": "Lemia D.O.O.",
+          "spend": 88.0
+        },
+        {
+          "name": "London Waste Management",
+          "spend": 86.0
+        },
+        {
+          "name": "Ico",
+          "spend": 67.0
+        },
+        {
+          "name": "Platinum Office D.O.O.",
+          "spend": 62.0
+        },
+        {
+          "name": "Officeworks",
+          "spend": 56.0
+        },
+        {
+          "name": "Shilton Hospitality Llp",
+          "spend": 55.0
+        },
+        {
+          "name": "Istra Wine",
+          "spend": 53.0
+        },
+        {
+          "name": "Pan-Pek D.O.O.",
+          "spend": 50.0
+        },
+        {
+          "name": "Garden City D.O.O.",
+          "spend": 45.0
+        },
+        {
+          "name": "Ekupi D.O.O.",
+          "spend": 40.0
+        },
+        {
+          "name": "Cupcake Central (Life Is Sweet Bakery)",
+          "spend": 35.0
+        },
+        {
+          "name": "Post Office Ltd",
+          "spend": 32.0
+        },
+        {
+          "name": "M&S Simply Food",
+          "spend": 19.0
+        },
+        {
+          "name": "Bakemono Bakers Melbourne",
+          "spend": 18.0
+        },
+        {
+          "name": "Coles",
+          "spend": 18.0
+        }
+      ]
+    },
+    "insurance": {
+      "count": 25,
+      "spend": 394137.0,
+      "vendors": [
+        {
+          "name": "Jensten Insurance Brokers",
+          "spend": 142700.0
+        },
+        {
+          "name": "Aetna Life And Casualty Ltd",
+          "spend": 124661.0
+        },
+        {
+          "name": "Agram Life Osiguranje D.O.O.",
+          "spend": 24952.0
+        },
+        {
+          "name": "Care Health Insurance Company Limited",
+          "spend": 24045.0
+        },
+        {
+          "name": "Bupa- Supplier",
+          "spend": 22800.0
+        },
+        {
+          "name": "Cigna Sg",
+          "spend": 13249.0
+        },
+        {
+          "name": "Bupa Australia",
+          "spend": 12463.0
+        },
+        {
+          "name": "Allianz Australia Workers' Compensation (Victoria) Limited",
+          "spend": 6099.0
+        },
+        {
+          "name": "Icici Lombard Gic Ltd",
+          "spend": 5972.0
+        },
+        {
+          "name": "Calm Achiever(A Unit Of Mohsin Ali Vakil)",
+          "spend": 4071.0
+        },
+        {
+          "name": "Akton D.O.O.",
+          "spend": 3254.0
+        },
+        {
+          "name": "Cici Prudential Life Insurance Co. Ltd.",
+          "spend": 3195.0
+        },
+        {
+          "name": "Elemental Life Solutions Llp",
+          "spend": 2807.0
+        },
+        {
+          "name": "Icare Nsw",
+          "spend": 1150.0
+        },
+        {
+          "name": "Allianz Wa",
+          "spend": 971.0
+        },
+        {
+          "name": "Oakberry Jr D.O.O.",
+          "spend": 535.0
+        },
+        {
+          "name": "Doctor Anywhere Operations Pte Ltd",
+          "spend": 347.0
+        },
+        {
+          "name": "Taste Of Health",
+          "spend": 259.0
+        },
+        {
+          "name": "Nastavni Zavod Za Javno Zdravstvo Dr. Andrija \u00c5 Tampar",
+          "spend": 199.0
+        },
+        {
+          "name": "Vitality Works",
+          "spend": 182.0
+        },
+        {
+          "name": "Ustanova Za Zdravstvenu Skrb P.P.",
+          "spend": 131.0
+        },
+        {
+          "name": "Cupcake Central (Life Is Sweet Bakery)",
+          "spend": 35.0
+        },
+        {
+          "name": "Specijalisticka Ordinacija Medicine Rada I Sporta Ina Kardos",
+          "spend": 20.0
+        },
+        {
+          "name": "Specijalisticka Ordinacija Medicine Rada Helena Blazic",
+          "spend": 20.0
+        },
+        {
+          "name": "Ustanova Za Medicinu Rada I Sporta Dr. Novacki",
+          "spend": 20.0
+        }
+      ]
+    },
+    "recruitment": {
+      "count": 9,
+      "spend": 148010.0,
+      "vendors": [
+        {
+          "name": "Linkedin Ireland Limited",
+          "spend": 55573.0
+        },
+        {
+          "name": "Mason Frank International Ltd",
+          "spend": 38148.0
+        },
+        {
+          "name": "Technet It Recruitment",
+          "spend": 21952.0
+        },
+        {
+          "name": "Cedar Recruitment Ltd",
+          "spend": 18537.0
+        },
+        {
+          "name": "The Guardian",
+          "spend": 8070.0
+        },
+        {
+          "name": "Info Edge India Limited",
+          "spend": 3536.0
+        },
+        {
+          "name": "Integrated Personnel Services",
+          "spend": 1054.0
+        },
+        {
+          "name": "Epignosis Llc",
+          "spend": 833.0
+        },
+        {
+          "name": "Treci Posao D.O.O.",
+          "spend": 307.0
+        }
+      ]
+    },
+    "sales_tools": {
+      "count": 11,
+      "spend": 3259690.0,
+      "vendors": [
+        {
+          "name": "Salesforce Uk Ltd-Uk",
+          "spend": 3117226.0
+        },
+        {
+          "name": "Mason Frank International Ltd",
+          "spend": 38148.0
+        },
+        {
+          "name": "Hubspot Ireland Limited",
+          "spend": 32187.0
+        },
+        {
+          "name": "Cognism Limited",
+          "spend": 27013.0
+        },
+        {
+          "name": "Uberflip",
+          "spend": 26091.0
+        },
+        {
+          "name": "Outreach Corporation",
+          "spend": 9206.0
+        },
+        {
+          "name": "Semrush Inc",
+          "spend": 3730.0
+        },
+        {
+          "name": "Lusha",
+          "spend": 2606.0
+        },
+        {
+          "name": "Yoxel, Inc",
+          "spend": 2044.0
+        },
+        {
+          "name": "Ariba Inc",
+          "spend": 1363.0
+        },
+        {
+          "name": "6Sense Insights Inc",
+          "spend": 76.0
+        }
+      ]
+    }
+  }
+}
